@@ -1,2 +1,2 @@
-# lego_analysis
-Doing some analysis on LEGO dataset with Pandas
+![alt text](https://github.com/[iamem1r]/[lego_analysis]/blob/[branch]/LEGO_logo.png?raw=true)
+
